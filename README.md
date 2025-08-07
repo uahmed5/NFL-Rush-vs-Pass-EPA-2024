@@ -1,1 +1,2 @@
 # NFL-Rush-vs-Pass-EPA-2024
+This project compares NFL teams offensive efficiency during the 2024 season by comparing their Expected Points Added (EPA) per play on rushing vs passing downs. Using the nflfastr, nflreadr and nflplot r packages I plotted each teams Rush EPA vs their Pass EPA to look at offensive performance. Looking at the upper right quadrant, which contains the teams who excelled at rush efficiency and pass efficiency, 9 of the 14 playoff teams from the 2024 NFL season were located which shows the importance of a multidimensional offense in todays NFL.   
